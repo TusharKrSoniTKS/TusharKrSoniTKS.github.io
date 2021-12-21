@@ -4,6 +4,10 @@
 - IIT Madras
 - Sathyabama University
 
+## Experience 
+- Amazon design manager
+- 5 years in ISRO 
+
 ## Projects Worked On-:
 
 ### 1. [Project 1-: House building calculator ](https://www.markdownguide.org/basic-syntax/#lists-1)
